@@ -1,5 +1,5 @@
 # --- Change what appears in the banner and meta data of your pages --- #
-title: My Language Learning Website
+title: Sid's Language Learning Website
 description: This is the tag-line of my website.
 
 # --- Specify the language of site --- #
@@ -19,7 +19,7 @@ github:
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
   page1: Home
-  page2: Page2
+  page2: Vocabulary
   page3: Page3
   page4: Page4
   page5: Page5
