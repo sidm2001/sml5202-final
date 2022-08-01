@@ -10,6 +10,5 @@ title: home
 <li>to teach you some basic hindi</li>
 <li>to provide a basic background into indian culture</li>
   <li>to equip you with the skills and knowledge to surivive a holiday in most parts of India<li>
-</ol>
 
 
