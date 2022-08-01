@@ -3,12 +3,13 @@ title: home
 ---
 
 <h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
-<p>three things i like</p>
-<p>three things i like:</p>
+<p>This is a brand-new Hindi language learning website! </p>
+
+<p>three aims for this website :</p>
 <ol>
-<li>dogs</li>
-<li>cats</li>
+<li>to teach you some basic hindi</li>
+<li>to provide a basic background into indian culture</li>
+  <li>to equip you with the skills and knowledge to surivive a holiday in most parts of India<li>
 </ol>
 
 
