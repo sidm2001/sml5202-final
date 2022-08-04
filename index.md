@@ -15,10 +15,12 @@ title: Landing Page
 
 
   <h2>Audio Introduction</h2>
-  <p>
-  <audio>
-<sourcehttps://user-images.githubusercontent.com/92572529/182212726-610fb59e-3ec0-4655-906e-927106c87b0c.mov" type="audio.mpeg">
- </audio>                                                                                       
+  <audio controls>  
+  <source src="https://sidm2001.github.io/sml5202-final/audio/test.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+                                                                                       
  
 
 <p><span style="text-decoration: underline;"><strong>Greetings Flashcard exercise:</strong></span></p>
