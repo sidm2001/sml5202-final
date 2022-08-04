@@ -9,7 +9,7 @@ title: Landing Page
 <ol>
   <li> <em>to teach you some basic hindi</em></li>
 <li>to provide a basic background into indian culture</li>
-  <li>to equip you with the skills and knowledge to surivive a holiday in most parts of India</ol>
+  <li>to equip you with the skills and knowledge to surivive a holiday in the different parts of India</ol>
   
 
 
