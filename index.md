@@ -11,7 +11,8 @@ title: Landing Page
 <li>to provide a basic background into indian culture</li>
   <li>to equip you with the skills and knowledge to surivive a holiday in the different parts of India</ol>
   
-
+  <h3>HTML IMAGE</h2>
+  <img=src="https://s135.convertio.me/p/MM0J9DKIZNas_DIc2ZxZwg/59c114f1d09868e096d5c36ada4807a4/india-flag.jpeg" alt="India Flag" width="500" height="333"
 
 
   <h2>Audio Introduction</h2>
