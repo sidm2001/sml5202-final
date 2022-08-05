@@ -3,7 +3,7 @@ title: Landing Page
 ---
 <body>
 <h1>Welcome</h1>
-<p>This is a brand-new Hindi language learning website! </p>
+<p>This is a brand-new Hindi language learning website! </p>                            <h2><img src="/Users/sidmohanty/Downloads/india-flag.jpeg" alt="India Flag" /></h2>
 
 <p>three aims for this website :</p>
 <ol>
@@ -31,4 +31,4 @@ Your browser does not support the audio element.
 <h3>footer</h3>
   <p>Student ID:200240442</p> 
   
-  <h2><img src="/Users/sidmohanty/Downloads/india-flag.jpeg" alt="India Flag" /></h2>
+
