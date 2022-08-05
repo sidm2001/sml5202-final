@@ -30,3 +30,5 @@ Your browser does not support the audio element.
 
 <h3>footer</h3>
   <p>Student ID:200240442</p> 
+  
+  <h2><img src="/Users/sidmohanty/Downloads/india-flag.jpeg" alt="India Flag" /></h2>
