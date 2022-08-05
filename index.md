@@ -3,17 +3,20 @@ title: Landing Page
 ---
 <body>
 <h1>Welcome</h1>
-<p>This is a brand-new Hindi language learning website! </p>                            <h2><img src="/Users/sidmohanty/Downloads/india-flag.jpeg" alt="India Flag" /></h2>
+<p>This is a brand-new Hindi language learning website! </p>      
+                                                                         
+                                                                            
+                                                                          <img src="https://s135.convertio.me/p/MM0J9DKIZNas_DIc2ZxZwg/59c114f1d09868e096d5c36ada4807a4/india-flag.jpeg" alt="India Flag" 
+      style="height:100%">                     
 
-<p>three aims for this website :</p>
+  <p>three aims for this website :</p>
 <ol>
   <li> <em>to teach you some basic hindi</em></li>
 <li>to provide a basic background into indian culture</li>
   <li>to equip you with the skills and knowledge to surivive a holiday in the different parts of India</ol>
   
 
- <img src="https://s135.convertio.me/p/MM0J9DKIZNas_DIc2ZxZwg/59c114f1d09868e096d5c36ada4807a4/india-flag.jpeg" alt="India Flag" 
-      style="height:100%">
+
 
 
   <h2>Audio Introduction</h2>
