@@ -6,8 +6,7 @@ title: Landing Page
 <p>This is a brand-new Hindi language learning website! </p>      
                                                                          
                                                                             
-                                                                          <img src="https://s135.convertio.me/p/MM0J9DKIZNas_DIc2ZxZwg/59c114f1d09868e096d5c36ada4807a4/india-flag.jpeg" alt="India Flag" 
-      style="height:100%">                     
+                                                                          
 
   <p>three aims for this website :</p>
 <ol>
