@@ -32,7 +32,8 @@ Your browser does not support the audio element.
                                             
 <iframe src="https://h5p.org/h5p/embed/1287188" width="1090" height="704" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Greetings"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   
-   <p>it is recommended to complete the rest of the exercises and read the content in the ascending order: Home, Festivals and celebrations, vocabulary, Indian food and otourims and finaly the frequently asked questions.</p>
+   <p>it is recommended to complete the rest of the exercises and read the content in the ascending order:<p><em>Home, Festivals and celebrations, vocabulary, Indian food and tourism </em>and finally<em> the frequently asked questions</em></p>
+     
 
 <h3>footer</h3>
   <p>Student ID:200240442</p> 
